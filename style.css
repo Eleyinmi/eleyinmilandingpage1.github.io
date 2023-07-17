@@ -16,7 +16,7 @@ body{
   background-color: rgb(8, 27, 41);
   color:#ededed;
 
-  background:linear-gradient(to top, rgba(8,27,41,0.7)50% , rgba(8,27,41,0.7)50% ),
+  background:linear-gradient(to top, rgba(8,27,41,0.8)50% , rgba(8,27,41,0.8)50% ),
    url('image/mypics.jpg') no-repeat;
   background-position: center;
   background-size:cover;
